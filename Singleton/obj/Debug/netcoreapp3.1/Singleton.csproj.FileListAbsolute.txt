@@ -1,0 +1,13 @@
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.csprojAssemblyReference.cache
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/home/ismail/Desktop/Demolar/AspNet/Singleton/Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache
